@@ -1,7 +1,7 @@
-import "./App.css";
+import Navbar from "./Components/sushant/Navbar";
 
 function App() {
-  return <div></div>;
+  return <Navbar />;
 }
 
 export default App;
